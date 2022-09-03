@@ -8,7 +8,7 @@
 h1 {
   color: var(--fourth-colour);
   text-align: center;
-  font-size: 700px;
+  font-size: 100px;
 }
 h2 {
   text-align: center;
@@ -18,4 +18,8 @@ p {
 }
 .container {
   background-color: blue;
+}
+
+body {
+  margin-top: 75px;
 }
