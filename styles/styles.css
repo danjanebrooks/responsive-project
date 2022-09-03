@@ -17,7 +17,8 @@ p {
   text-align: center;
 }
 .container {
-  background-color: blue;
+  background-color: var(--second-colour);
+  padding: 50px;
 }
 
 body {
