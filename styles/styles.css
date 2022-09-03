@@ -1,6 +1,14 @@
+:root {
+  --first-colour: #fafafa;
+  --second-colour: #c7eeff;
+  --third-colour: #0077c0;
+  --fourth-colour: #1d242b;
+}
+
 h1 {
-  color: blue;
+  color: var(--fourth-colour);
   text-align: center;
+  font-size: 300px;
 }
 h2 {
   text-align: center;
