@@ -38,3 +38,8 @@ p {
 body {
   margin-top: 75px;
 }
+
+img {
+  display: block;
+  margin: auto;
+}
