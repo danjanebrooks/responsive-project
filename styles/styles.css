@@ -5,6 +5,13 @@
   --fourth-colour: #1d242b;
 }
 
+.navbar-custom {
+  background-color: var(--fourth-colour) !important;
+}
+.navbar-brand {
+  color: var(--first-colour) !important;
+}
+
 h1 {
   color: var(--fourth-colour);
   text-align: center;
@@ -25,6 +32,7 @@ p {
 .container {
   background-color: var(--second-colour);
   padding: 50px;
+  border-radius: 20px;
 }
 
 body {
