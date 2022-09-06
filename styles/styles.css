@@ -65,3 +65,20 @@ button:hover {
   background-color: var(--fourth-colour);
   color: var(--first-colour);
 }
+
+.homepage-buttons {
+  margin: 50px 150px;
+  padding: 10px 10px;
+  background-color: var(--first-colour);
+  border-radius: 10px;
+  color: var(--fourth-colour);
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+.homepage-buttons:hover {
+  background-color: var(--fourth-colour);
+  color: var(--first-colour);
+}
