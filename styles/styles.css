@@ -49,3 +49,10 @@ img {
   margin: auto;
   border-radius: 10px;
 }
+
+button {
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+  padding: 10px 50px;
+}
