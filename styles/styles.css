@@ -12,6 +12,10 @@
   color: var(--first-colour) !important;
 }
 
+.navbar-toggler {
+  background-color: var(--first-colour);
+}
+
 h1 {
   color: var(--fourth-colour);
   text-align: center;
@@ -32,14 +36,16 @@ p {
 .container {
   background-color: var(--second-colour);
   padding: 50px;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 body {
   margin-top: 75px;
+  background-color: var(--first-colour);
 }
 
 img {
   display: block;
   margin: auto;
+  border-radius: 10px;
 }
