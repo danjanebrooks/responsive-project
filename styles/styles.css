@@ -55,4 +55,8 @@ button {
   margin: auto;
   margin-top: 50px;
   padding: 10px 50px;
+  background-color: var(--first-colour);
+  border-radius: 10px;
+  border-color: var(--fourth-colour);
+  color: var(--fourth-colour);
 }
