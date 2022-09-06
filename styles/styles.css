@@ -60,3 +60,8 @@ button {
   border-color: var(--fourth-colour);
   color: var(--fourth-colour);
 }
+
+button:hover {
+  background-color: var(--fourth-colour);
+  color: var(--first-colour);
+}
