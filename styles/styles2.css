@@ -15,3 +15,24 @@
 .navbar-toggler {
   background-color: var(--first-colour);
 }
+h1 {
+  color: var(--fourth-colour);
+  text-align: center;
+  font-size: 100px;
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+  margin-bottom: 40px;
+}
+body {
+  margin-top: 75px;
+  background-color: var(--first-colour);
+}
+
+h3 {
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+  text-align: center;
+  margin: 30px 200px;
+}
+
+p {
+  margin: 30px 200px;
+}
