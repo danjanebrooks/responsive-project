@@ -33,6 +33,13 @@ h3 {
   margin: 30px 200px;
 }
 
+section {
+  background-color: var(--second-colour);
+}
+
 p {
   margin: 30px 200px;
+  background-color: var(--second-colour);
+  padding: 20px;
+  border-radius: 10px;
 }
