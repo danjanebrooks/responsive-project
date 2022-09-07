@@ -1,0 +1,17 @@
+:root {
+  --first-colour: #fafafa;
+  --second-colour: #c7eeff;
+  --third-colour: #0077c0;
+  --fourth-colour: #1d242b;
+}
+
+.navbar-custom {
+  background-color: var(--fourth-colour) !important;
+}
+.navbar-brand {
+  color: var(--first-colour) !important;
+}
+
+.navbar-toggler {
+  background-color: var(--first-colour);
+}
