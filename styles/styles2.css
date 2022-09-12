@@ -37,6 +37,7 @@ h3 {
   background-color: var(--second-colour);
   padding: 20px 70px;
   font-family: "Zen Kaku Gothic Antique", sans-serif;
+  text-align: center;
 }
 
 p {
